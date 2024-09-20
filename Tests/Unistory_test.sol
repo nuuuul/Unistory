@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-// ["0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2", "0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db"]
 pragma solidity >=0.4.22 <0.9.0;
 
 import "remix_tests.sol"; 
